@@ -1,2 +1,4 @@
 image: gitpod/workspace-full
 
+checkoutLocation: "go/src/github.com/demo-apps/go-gin-app"
+workspaceLocation: "go/src/github.com/demo-apps/go-gin-app"
