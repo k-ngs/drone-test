@@ -6,4 +6,4 @@ steps:
 - name: test
   image: golang:1.15
   commands:
-  - go test ./hello-world
+  - go test ./...
