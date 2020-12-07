@@ -2,4 +2,6 @@
 [![Build Status](https://cloud.drone.io/api/badges/k-ngs/drone-test/status.svg)](https://cloud.drone.io/k-ngs/drone-test)
 
 # drone-test
-CI/CD test using drone
+CI/CD test using drone. 
+
+This repository's topic is study TDD by Golang
