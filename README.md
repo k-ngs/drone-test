@@ -5,3 +5,5 @@
 CI/CD test using drone. 
 
 This repository's topic is study TDD by Golang
+
+https://andmorefine.gitbook.io/learn-go-with-tests/
